@@ -7,11 +7,16 @@
     background: peru;
     color: white;
     height: 50vh;
-
+display: flex;
+justify-content: center;
+align-items: center;
 }
 
 .header__content{
     background: black;
     color: white;
     height: 50vh;
+    display: flex;
+justify-content: center;
+align-items: center;
 }
