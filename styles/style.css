@@ -3,3 +3,15 @@
     padding: 0;
     box-sizing: border-box;
 }
+.header__nav{
+    background: peru;
+    color: white;
+    height: 50vh;
+
+}
+
+.header__content{
+    background: black;
+    color: white;
+    height: 50vh;
+}
